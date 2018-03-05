@@ -1630,66 +1630,6 @@ AddOutputFilter chunkFilter
 						<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 						<Item Name="lvSimController.dll" Type="Document" URL="/&lt;vilib&gt;/rvi/Simulation/lvSimController.dll"/>
 					</Item>
-					<Item Name="DIO 1-bit.vi" Type="VI" URL="../Sub VIs/DIO/DIO 1-bit.vi"/>
-					<Item Name="Start Boolean.ctl" Type="VI" URL="../Sub VIs/Utilities/Start Boolean.ctl"/>
-					<Item Name="Split myDAQ DIO.vi" Type="VI" URL="../Sub VIs/MUXed IO/Split myDAQ DIO.vi"/>
-					<Item Name="Split myDAQ Function Select.vi" Type="VI" URL="../Sub VIs/MUXed IO/Split myDAQ Function Select.vi"/>
-					<Item Name="DIO_PWM.vi" Type="VI" URL="../Sub VIs/MUXed IO/DIO_PWM.vi"/>
-					<Item Name="PWM (Single Output).vi" Type="VI" URL="../Sub VIs/PWM/PWM (Single Output).vi"/>
-					<Item Name="PWM Split Control Lines (Single Output).vi" Type="VI" URL="../Sub VIs/PWM/PWM Split Control Lines (Single Output).vi"/>
-					<Item Name="PWM Clock Divider.vi" Type="VI" URL="../Sub VIs/PWM/PWM Clock Divider.vi"/>
-					<Item Name="PWM Counter.vi" Type="VI" URL="../Sub VIs/PWM/PWM Counter.vi"/>
-					<Item Name="PWM Count Controller.vi" Type="VI" URL="../Sub VIs/PWM/PWM Count Controller.vi"/>
-					<Item Name="16-Bit Bidirectional Counter Controller.vi" Type="VI" URL="../Sub VIs/Counters/16-Bit Bidirectional Counter Controller.vi"/>
-					<Item Name="PWM Waveform Generator.vi" Type="VI" URL="../Sub VIs/PWM/PWM Waveform Generator.vi"/>
-					<Item Name="DIO_Encoder.vi" Type="VI" URL="../Sub VIs/MUXed IO/DIO_Encoder.vi"/>
-					<Item Name="Encoder.vi" Type="VI" URL="../Sub VIs/Encoder/Encoder.vi"/>
-					<Item Name="Encoder Split Control Lines.vi" Type="VI" URL="../Sub VIs/Encoder/Encoder Split Control Lines.vi"/>
-					<Item Name="Encoder Quad Phase Detection.vi" Type="VI" URL="../Sub VIs/Encoder/Encoder Quad Phase Detection.vi"/>
-					<Item Name="Encoder States.ctl" Type="VI" URL="../Sub VIs/Encoder/Encoder States.ctl"/>
-					<Item Name="Rising Edge Trigger.vi" Type="VI" URL="../Sub VIs/Utilities/Rising Edge Trigger.vi"/>
-					<Item Name="Encoder Control Logic.vi" Type="VI" URL="../Sub VIs/Encoder/Encoder Control Logic.vi"/>
-					<Item Name="Encoder Counter.vi" Type="VI" URL="../Sub VIs/Encoder/Encoder Counter.vi"/>
-					<Item Name="32-Bit Bidirectional Counter Controller.vi" Type="VI" URL="../Sub VIs/Counters/32-Bit Bidirectional Counter Controller.vi"/>
-					<Item Name="Check Overflow.vi" Type="VI" URL="../Sub VIs/Utilities/Check Overflow.vi"/>
-					<Item Name="Encoder Store Overflow.vi" Type="VI" URL="../Sub VIs/Encoder/Encoder Store Overflow.vi"/>
-					<Item Name="Join myDAQ DIO.vi" Type="VI" URL="../Sub VIs/MUXed IO/Join myDAQ DIO.vi"/>
-					<Item Name="Split HDC Function Select.vi" Type="VI" URL="../Sub VIs/MUXed IO/Split HDC Function Select.vi"/>
-					<Item Name="Split HDC Bank1 DIO.vi" Type="VI" URL="../Sub VIs/MUXed IO/Split HDC Bank1 DIO.vi"/>
-					<Item Name="Split HDC Bank2 DIO.vi" Type="VI" URL="../Sub VIs/MUXed IO/Split HDC Bank2 DIO.vi"/>
-					<Item Name="DIO_SPI.vi" Type="VI" URL="../Sub VIs/MUXed IO/DIO_SPI.vi"/>
-					<Item Name="SPI Master.vi" Type="VI" URL="../Sub VIs/SPI/SPI Master.vi"/>
-					<Item Name="SPI States.ctl" Type="VI" URL="../Sub VIs/SPI/SPI States.ctl"/>
-					<Item Name="SPI Frame Length.ctl" Type="VI" URL="../Sub VIs/SPI/SPI Frame Length.ctl"/>
-					<Item Name="SPI Split Control Lines.vi" Type="VI" URL="../Sub VIs/SPI/SPI Split Control Lines.vi"/>
-					<Item Name="SPI Clock Select.ctl" Type="VI" URL="../Sub VIs/SPI/SPI Clock Select.ctl"/>
-					<Item Name="SPI Output Logic.vi" Type="VI" URL="../Sub VIs/SPI/SPI Output Logic.vi"/>
-					<Item Name="SPI Clock.vi" Type="VI" URL="../Sub VIs/SPI/SPI Clock.vi"/>
-					<Item Name="SPI State Controller Logic.vi" Type="VI" URL="../Sub VIs/SPI/SPI State Controller Logic.vi"/>
-					<Item Name="SPI MOSI.vi" Type="VI" URL="../Sub VIs/SPI/SPI MOSI.vi"/>
-					<Item Name="SPI MISO.vi" Type="VI" URL="../Sub VIs/SPI/SPI MISO.vi"/>
-					<Item Name="Falling Edge Trigger.vi" Type="VI" URL="../Sub VIs/Utilities/Falling Edge Trigger.vi"/>
-					<Item Name="DIO_I2C.vi" Type="VI" URL="../Sub VIs/MUXed IO/DIO_I2C.vi"/>
-					<Item Name="I2C Master.vi" Type="VI" URL="../Sub VIs/I2C/I2C Master.vi"/>
-					<Item Name="I2C States.ctl" Type="VI" URL="../Sub VIs/I2C/I2C States.ctl"/>
-					<Item Name="I2C Status Signals.ctl" Type="VI" URL="../Sub VIs/I2C/I2C Status Signals.ctl"/>
-					<Item Name="I2C Get Configuration.vi" Type="VI" URL="../Sub VIs/I2C/I2C Get Configuration.vi"/>
-					<Item Name="I2C Configuration.ctl" Type="VI" URL="../Sub VIs/I2C/I2C Configuration.ctl"/>
-					<Item Name="I2C Next State Controller.vi" Type="VI" URL="../Sub VIs/I2C/I2C Next State Controller.vi"/>
-					<Item Name="I2C Control Signals.ctl" Type="VI" URL="../Sub VIs/I2C/I2C Control Signals.ctl"/>
-					<Item Name="I2C SDA In.vi" Type="VI" URL="../Sub VIs/I2C/I2C SDA In.vi"/>
-					<Item Name="I2C Indexer.vi" Type="VI" URL="../Sub VIs/I2C/I2C Indexer.vi"/>
-					<Item Name="3-Bit Down Counter Controller.vi" Type="VI" URL="../Sub VIs/Counters/3-Bit Down Counter Controller.vi"/>
-					<Item Name="I2C SDA Out.vi" Type="VI" URL="../Sub VIs/I2C/I2C SDA Out.vi"/>
-					<Item Name="I2C Timer.vi" Type="VI" URL="../Sub VIs/I2C/I2C Timer.vi"/>
-					<Item Name="8-Bit Down Counter Controller.vi" Type="VI" URL="../Sub VIs/Counters/8-Bit Down Counter Controller.vi"/>
-					<Item Name="Check DI IRQ.vi" Type="VI" URL="../Sub VIs/IRQ/Check DI IRQ.vi"/>
-					<Item Name="Debouncing.vi" Type="VI" URL="../Sub VIs/Utilities/Debouncing.vi"/>
-					<Item Name="Join HDC Bank1 DIO.vi" Type="VI" URL="../Sub VIs/MUXed IO/Join HDC Bank1 DIO.vi"/>
-					<Item Name="Join HDC Bank2 DIO.vi" Type="VI" URL="../Sub VIs/MUXed IO/Join HDC Bank2 DIO.vi"/>
-					<Item Name="Check AI IRQ.vi" Type="VI" URL="../Sub VIs/IRQ/Check AI IRQ.vi"/>
-					<Item Name="SPI IRQ.vi" Type="VI" URL="../Sub VIs/SPI/SPI IRQ.vi"/>
-					<Item Name="DIO IRQ 1-bit.vi" Type="VI" URL="../Sub VIs/IRQ/DIO IRQ 1-bit.vi"/>
 				</Item>
 				<Item Name="Build Specifications" Type="Build">
 					<Item Name="FPGA Main Default" Type="{F4C5E96F-7410-48A5-BB87-3559BC9B167F}">
@@ -1771,19 +1711,22 @@ AddOutputFilter chunkFilter
 				</Item>
 			</Item>
 		</Item>
+		<Item Name="Untitled Library 1.lvlib" Type="Library" URL="../Untitled Library 1.lvlib"/>
+		<Item Name="WRO2018.vi" Type="VI" URL="../WRO2018.vi"/>
 		<Item Name="Control.vi" Type="VI" URL="../Control.vi"/>
-		<Item Name="HT Light.vi" Type="VI" URL="../HT Light.vi"/>
 		<Item Name="Motor_Experiment.vi" Type="VI" URL="../Motor_Experiment.vi"/>
 		<Item Name="MotorBlock_P.vi" Type="VI" URL="../MotorBlock_P.vi"/>
 		<Item Name="MotorBlock_PI.vi" Type="VI" URL="../MotorBlock_PI.vi"/>
 		<Item Name="MotorBlockPI_FPGA.vi" Type="VI" URL="../MotorBlockPI_FPGA.vi"/>
 		<Item Name="MotorON.vi" Type="VI" URL="../MotorON.vi"/>
-		<Item Name="Seguidor Top Level.vi" Type="VI" URL="../Seguidor Top Level.vi"/>
 		<Item Name="ServoControl.vi" Type="VI" URL="../ServoControl.vi"/>
 		<Item Name="SteeringMotorBlock.vi" Type="VI" URL="../SteeringMotorBlock.vi"/>
-		<Item Name="Untitled Library 1.lvlib" Type="Library" URL="../Untitled Library 1.lvlib"/>
 		<Item Name="Control_BIG.vi" Type="VI" URL="../Control_BIG.vi"/>
 		<Item Name="MotorBlockPI_FPGA_BIG.vi" Type="VI" URL="../MotorBlockPI_FPGA_BIG.vi"/>
+		<Item Name="HT I2C Config.vi" Type="VI" URL="../HT I2C Config.vi"/>
+		<Item Name="HT Light.vi" Type="VI" URL="../HT Light.vi"/>
+		<Item Name="Seguidor Top Level.vi" Type="VI" URL="../Seguidor Top Level.vi"/>
+		<Item Name="HT Color.vi" Type="VI" URL="../HT Color.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="AI IRQ FPGA Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/myRIO v1.0/IRQ/typedefs/AI IRQ FPGA Reference.ctl"/>
